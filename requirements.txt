@@ -1,0 +1,20 @@
+﻿# Core Computer Vision & Face Recognition
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Data Handling & Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# GUI
+# tkinter is built into Python — no pip install needed
+
+# Web Dashboard
+Flask>=3.0.0
+
+# Email Notifications
+python-dotenv>=1.0.0
+
+# Database (optional — for legacy MySQL support)
+pymysql>=1.1.0
